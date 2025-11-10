@@ -1,9 +1,4 @@
-🌐 Live Demo Link
 
-👉 Open Streamlit App
-
-(If deployed to Streamlit Cloud, replace with your actual public URL, e.g., https://langchain-demo.streamlit.app)
-# 🧠 LangChain Learning Projects
 
 This repository contains step-by-step examples and small projects exploring **LangChain**, **OpenAI**, and **Ollama** integrations.  
 Each subfolder demonstrates a specific concept — from basic API calls to embeddings and vector storage.
